@@ -4,8 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="mLpoPawhJd0MBGUfblo9-1" value="&lt;b&gt;LED&lt;/b&gt; Task&amp;nbsp;" style="text;strokeColor=#6c8ebf;align=center;fillColor=#dae8fc;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=1;strokeWidth=12;spacing=2;shadow=1;glass=0;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="mLpoPawhJd0MBGUfblo9-1" value="&lt;b&gt;LED&lt;/b&gt; Task&amp;nbsp;" style="text;strokeColor=#6c8ebf;align=center;fillColor=#dae8fc;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=1;strokeWidth=12;spacing=2;shadow=1;glass=0;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="300" y="10" width="193" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HBgNoqXWHPhXw2BMWKmz-1" value="start" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="360" y="160" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
